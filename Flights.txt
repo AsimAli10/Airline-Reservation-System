@@ -1,0 +1,8 @@
+1,dt765,lahore,karachi,economy,40,25000,23/7/2022,40
+2,uy786,islamabad,lahore,economy,50,24000,12/10/2021,50
+3,yr674,multan,lahore,economy,30,12000,12/10/2021,29
+4,rt784,lahore,multan,bussiness,20,40000,30/12/2021,20
+5,hg567,karachi,islamabad,economy,35,4000,23/11/2021,35
+6,er785,lahore,islamabad,economy,20,6000,24/11/2021,20
+7,wr784,karachi,lahore,bussiness,40,23000,23/11/2021,40
+8,yu673,karachi,multan,economy,40,4500,21/11/2021,40
